@@ -7,8 +7,8 @@
         <script src="script.js"></script>
     </head>
     <body>
-        <h1>時計に移動する</h1>
+        <h1>タイマーに移動する</h1>
         <button onclick="location.href='./../index.html'">戻る</button>
-        <button onclick="location.href='https://utakeuchinojabaibai.github.io/Clock'">移動</button>
+        <button onclick="location.href='https://utakeuchinojabaibai.github.io/timer'">移動</button>
     </body>
 </html>
